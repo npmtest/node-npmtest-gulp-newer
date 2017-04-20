@@ -1,4 +1,7 @@
-# test coverage for  [gulp-newer (v1.3.0)](https://github.com/tschaub/gulp-newer)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-newer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-newer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-newer.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-newer)
+# npmtest-gulp-newer
+
+#### basic test coverage for  [gulp-newer (v1.3.0)](https://github.com/tschaub/gulp-newer)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-newer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-newer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-newer.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-newer)
+
 #### Only pass through newer source files
 
 [![NPM](https://nodei.co/npm/gulp-newer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-newer)
